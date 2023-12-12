@@ -1,33 +1,13 @@
-### Olá! Eu sou Larissa Lessa 🌪️
-   ##
-Sou estudande na aréa de tecnologia. Criei esse espaço é para compartilhar meus estudos, ideias e projetos.
+# Olá! Sou Larissa Lessa!👋
+## 👩‍💻 Analista de Teste
 
-- 👩‍💻 Atualmente estágiaria de desenvolvimento backend Java
-- 💻 Estudando Java e Front-end
 - 👩🏾‍🦱 Pronouns: ela/dela
- 
-   ##
-   
-<div align="center">
-  <a href="https://github.com/LarissaLessa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaLessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaLessa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="LarissaLessa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt="LarissaLessa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img align="center" alt="LarissaLessa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="LarissaLessa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LarissaLessa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   </div> 
   
-  ##
+Desde 2018 atuo na área de testes de software, sou bacharel em Sistemas da informação, certificada CTFL -  Certified Tester Foundation Level e AZ-900: Fundamentos do Microsoft Azure além de possuir alguns [Badges](https://www.credly.com/users/larissa-gomes-lessa). Tenho experência com testes manuais de desktop, web, mobile e API mas atualmente tenho estudado testes automatizados com Robot FrameWork. Atualmente sou Analista de Teste na [IBM - Brasil](https://www.ibm.com/br-pt).
 
- #### Onde você pode me encontrar 📞
 
-<div> 
-  <a href="https://www.linkedin.com/in/llarissalessa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:larissa_gomeslessa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:larissa_gomeslessa@hotmail.com)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/llarissalessa/)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />]()
 
-  
+## 💻 Tecnologias
+
+<p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a>
